@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="986722eb-35ad-4a40-9aca-1cdb149dff35" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2K3dD7vukGfOmBzK1FmJU12rBuX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/EnocaChallenge3/src/main/java/com/example/EnocaChallenge3" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.EnocaChallenge3.response" />
+      <recent name="com.example.EnocaChallenge3.exceptionHandler" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hamou\OneDrive\Bureau\EnocaChallenge3\EnocaChallenge3\src\main\java\com\example\EnocaChallenge3" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EnocaChallenge3Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="EnocaChallenge3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.EnocaChallenge3.EnocaChallenge3Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="986722eb-35ad-4a40-9aca-1cdb149dff35" name="Default Changelist" comment="" />
+      <created>1673207077938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673207077938</updated>
+      <workItem from="1673207079173" duration="1192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="401" y="441" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1673207534519">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="401" y="441" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/-1920.-1.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1673207534519" />
+    <state x="756" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1673207538044">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="756" y="396" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/-1920.-1.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1673207538044" />
+    <state x="740" y="271" key="FileChooserDialogImpl" timestamp="1673207388370">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="740" y="271" key="FileChooserDialogImpl/-1920.-1.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1673207388370" />
+    <state x="440" y="90" key="SettingsEditor" timestamp="1673207955786">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="440" y="90" key="SettingsEditor/-1920.-1.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1673207955786" />
+    <state x="616" y="238" key="run.anything.popup" timestamp="1673207202123">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="238" key="run.anything.popup/-1920.-1.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1673207202123" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1673207941347">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/-1920.-1.1536.826/0.0.1920.1032@0.0.1920.1032" timestamp="1673207941347" />
+  </component>
+</project>
